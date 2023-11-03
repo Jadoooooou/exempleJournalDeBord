@@ -6,6 +6,8 @@ L’objectif de cet exercice est de développer une opinion sur une œuvre multi
 Entre 300 et 400 mots. 
 
 ### Description
+Nous avons visités les jeux d'évasion d'Escaparium. L'objectif de ces jeux et de pouvour resoudre le ou les problemes encontres et pouvoir de ce faitt, s'évader. 
+
 Décrivez l'oeuvre. Quelles étaient les composantes de l'installation? Comment était-elle réalisée techniquement? 
 
 ### Opinion
