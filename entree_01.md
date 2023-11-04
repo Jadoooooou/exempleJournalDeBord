@@ -1,14 +1,9 @@
 # Entrée 1
 ## Créer mon journal de bord
-[Ce tutoriel](https://guides.github.com/activities/hello-world/) vous aidera à bien comprendre les bases de GitHub, n'hésitez pas à le consulter!
-Vous ne vous rappelez plus comment créer le journal ou le modifier? [Ce tutoriel](https://youtu.be/lX3bpuLK_Sg) vous aide! 
-
 ## Pourquoi j'ai choisi l'intégration multimédia
-Expliquer en 5 à 10 lignes ce qui vous intéresse en TIM. Parlez de ce qui vous a fait choisir ce programme. Quel cours vous motive en particulier? Est-ce que vous avez déjà en tête un métier que vous aimeriez faire grâce à la formation? Insérez dans votre texte un mot en gras, un emoji et une liste à point. 
 
-J'ai choisis le programme Technique d'Integration Multimedia parce que les cours semblaient vraiment intéressants. Au début, je oulais m'en aller en architecture, mais j'ai realiser que ce qui m'interressait dans ce domaine etait plus les maquettes 3D que toutes autres choses. Ensuite j'ai voulu aller en Technique de l'animation 3D, mais ce programme ce concentrait vraiment sur les jeux video. Finalement, TIM etait le choix parfait parce qu'il touchait à plein de notions interressantes et differentes.
+- J'ai choisis le programme Technique d'Intégration Multimédia parce que les cours semblaient vraiment intéressants. Au début, je voulais m'en aller en architecture, mais j'ai realiser que ce qui m'interressait dans ce domaine était plus les maquettes 3D que toutes autres choses. Ensuite j'ai voulu aller en Technique de l'animation 3D, mais ce programme ce concentrait vraiment sur les jeux video. Finalement, TIM était le choix parfait parce qu'il touchait à plein de notions interressantes et differentes. 
 
-[Ce tutoriel](https://guides.github.com/features/mastering-markdown/) vous aidera à avoir la bonne syntaxe lorsque vous écrirez dans votre journal. Vous pouvez aussi vous référez à [cette *cheatsheet*](https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md). 
+- Les cours qui me motivent le plus en première session seraient Web et Illustration Numérique, puisque j'ai déjà un peu **(mais genre vraiment un peu)** touché à du HTML plus jeune et j'aimais cela et ben pour Illustration, je suis quelqu'un de vraiment artistique. J'ai aussi un appareil photo chez moi, donc on pourrait penser que la Photographie serait pour moi un cours que j'aimerais, mais je réalise que j'aime plus le côté virtuelle, celui de retoucher ou modifier une photo, et non de penser sur le moment les réglages et tout d'une photographie.
 
-
-
+- Je n'ai pas vraiment de métier en tête, je suis quelqu'un qui aime réussir des defis et vraiment apprendre toujours quelque de nouveau. Tout ce que je sais, c'est que j'aimerais beaucoup travailler pour une firme qui creer des évènements multimédias ou immersifs. :upside_down_face:
