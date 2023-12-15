@@ -1,5 +1,4 @@
 # Entrée 09 
-## Ma vidéo
+## Pas de vidéo effectuée 
 
-Remettre le lien vers une vidéo que vous avez réalisée dans OBS. 
 
