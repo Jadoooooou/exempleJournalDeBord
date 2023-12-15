@@ -8,6 +8,10 @@ Création de poubelles intelligentes qui incitent la population à mieux trier l
 ### Moodboard
 Montrer nous l'allure visuelle et sonore qu'aura votre projet à l'aide d'un moodboard, de maquettes ou de croquis. 
 
+![Carte heuristique](Images/carte_heuristique.jpeg)
+![Compartiments](Images/compartiments.jpeg)
+![Aspect visuel](Images/aspect_visuel.png)
+![Application](Images/application.png)
 
 ### Technologies
 Décrivez quelles seront les technologies utilisées dans votre projet. 
